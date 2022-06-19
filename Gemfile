@@ -12,6 +12,8 @@ gem 'jbuilder'
 gem 'bcrypt'
 gem 'bootsnap', require: false
 gem 'tzinfo-data'
+gem 'slim-rails'
+gem 'react-rails'
 
 group :development do
   gem 'web-console'
